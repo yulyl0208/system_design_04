@@ -25,8 +25,3 @@ mongo < queries.js
 * exercises
 * trainings
 
-##  Возможности
-
-* CRUD операции
-* Валидация схем
-* Aggregation pipeline
